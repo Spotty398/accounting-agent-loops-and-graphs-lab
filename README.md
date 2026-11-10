@@ -4,6 +4,8 @@ An interactive, self-contained learning lab for accounting teams to explore AI a
 
 ## Use the lab
 
+**[Open the live interactive lab](https://spotty398.github.io/accounting-agent-loops-and-graphs-lab/)**
+
 Open `index.html` in a modern browser. It also runs offline: download the repository ZIP, extract it, and open `index.html`.
 
 No installation, account, API key, or build step is required.
